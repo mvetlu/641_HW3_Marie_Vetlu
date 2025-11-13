@@ -1,0 +1,23 @@
+==================================================
+EXPERIMENT SUMMARY STATISTICS
+==================================================
+
+Overall Statistics:
+Total Experiments: 68
+Mean Test Accuracy: 0.6900
+Std Test Accuracy: 0.1180
+Mean F1-Score: 0.6495
+Mean Time per Epoch: 19.85s
+
+Best Model:
+Experiment: BiLSTM_tanh_adam_100_clip
+Architecture: Bidirectional_LSTM
+Activation: tanh
+Optimizer: adam
+Sequence Length: 100
+Gradient Clipping: True
+Test Accuracy: 0.8258
+Test F1-Score: 0.8257
+Time per Epoch: 24.34s
+
+
