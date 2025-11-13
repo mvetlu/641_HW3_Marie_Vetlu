@@ -20,8 +20,8 @@ The runtime metrics in this report were generated using the following hardware:
 
 1.  **Clone the repository:**
 ```bash
-git clone https://github.com/mvetlu/MSML641_HW3_MVetlu.git
-cd MSML641_HW3_MVetlu
+git clone https://github.com/mvetlu/641_HW3_Marie_Vetlu.git
+cd 641_HW3_Marie_Vetlu
 ```
 
 2. **Create and activate a virtual environment (Mac)** 
